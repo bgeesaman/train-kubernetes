@@ -1,5 +1,5 @@
 require 'train'
-require 'k8s-client'
+require 'k8s-ruby'
 require 'train-kubernetes/platform'
 
 module TrainPlugins
