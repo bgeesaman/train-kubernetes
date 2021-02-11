@@ -62,7 +62,7 @@ If it has the version set to `"= 0.1.3"`, modify it to `"0.1.3"` and save the fi
 Verify the plugin:
 
 ```
-inspec plugins list
+inspec plugin list
 ```
 
 ```
